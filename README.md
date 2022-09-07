@@ -1,5 +1,6 @@
 # BryanTerminalPortfolio 🖥
-Terminal Style Portfolio | Template
+Terminal Style Portfolio | Template 
+[Preview Here](https://bryanohh.github.io/BryanTerminalPortfolio/)
 
 This website is a fun way to present a portfolio.
 
